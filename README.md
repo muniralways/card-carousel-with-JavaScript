@@ -2,6 +2,7 @@
 
 ![Demo](assets/demo/demo.gif)
 
+![Carousel Demo](https://drive.google.com/uc?export=view&id=1VdoFroMhumGUcm2CXmmbQSmehLdEBdCz)
 
 A sleek **Team Member Carousel** to showcase your team members with smooth card animations, names, and roles.  
 It supports **click, dots navigation, keyboard arrows, card click, and mobile swipe gestures**.
